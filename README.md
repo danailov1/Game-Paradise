@@ -9,7 +9,11 @@ The architecture of Game Paradise  is designed on the principle of modularity. E
 
 The main modules of the Game Paradise app include:
 o Main Navigation Menu - Provides access to all twelve games, the personal bests section and the game controls form.
+
 o Game windows - Individual windows for each game that contain unique game controls and mechanics.
+
 o Personal Records form - A form that displays the user's personal records for a selected game.
+
 o Game Controls Form - A form that facilitates the user's work with the application by informing him about the controls of each game.
+
 o Database - a local database that stores the user's personal records in a text document.
